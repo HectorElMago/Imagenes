@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4.8528218mm"
+   height="4.7893219mm"
+   viewBox="0 0 4.8528218 4.7893219"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="EnEjecucion.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-75.074016,-104.74611)">
+    <g
+       id="g1"
+       transform="matrix(0.08665753,0,0,0.08552361,68.574664,95.766129)">
+      <circle
+         style="fill:#fa6d00;fill-opacity:0;stroke:#ff7d0c;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="path4"
+         cx="-133"
+         cy="-103.00043"
+         r="27.5"
+         transform="matrix(0,-1,-1,0,0,0)"
+         inkscape:export-filename="Planificado.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path13"
+         style="fill:#fa6d00;fill-opacity:1;stroke:#ff7d0c;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         d="M 130.50004,132.99985 H 102.88261 V 105.5085 a 27.5,27.5 0 0 1 0.1173,-0.008 27.5,27.5 0 0 1 27.50013,27.49961 z" />
+      <path
+         id="path13-0"
+         style="fill:#fa6d00;fill-opacity:1;stroke:#ff7d0c;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         d="M 130.50043,133.00065 H 102.883 V 160.492 a 27.5,27.5 0 0 0 0.1173,0.008 27.5,27.5 0 0 0 27.50013,-27.49961 z" />
+    </g>
+  </g>
+</svg>
